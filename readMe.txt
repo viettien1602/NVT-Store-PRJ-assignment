@@ -1,0 +1,2 @@
+- This small project is my assignment for my school subject PRJ301.
+- Contact me at viettien1602@gmail.com for more information.

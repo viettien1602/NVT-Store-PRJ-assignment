@@ -1,0 +1,168 @@
+.header {
+    height: 80px;
+    width: 100%;
+    background-color: rgb(37, 37, 37) !important;
+    color: white !important;
+}
+
+.slide {
+    background-color: black;
+    opacity: 0.6;
+    height: 450px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text h1 {
+    position: relative;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3em;
+}
+
+
+footer {
+    height: 100px;
+    background-color: rgb(37, 37, 37);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+ 
+.d-flex button {
+    background-color: rgb(77, 77, 77);
+    margin-right: 20px;
+    color: white;
+}
+
+.d-flex button:hover {
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+.d-flex button:active {
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+.get-all-button {
+    margin: 20px;
+    text-align: center;
+}
+
+.get-all-button input {
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.get-all-button input:hover {
+    background-color: rgb(105, 105, 105);
+}
+
+.search {
+    text-align: center;
+}
+
+.search-button {
+    padding: 2px 10px;
+    margin-left: 5px;
+}
+
+.search-box {
+    padding: 2px 10px
+}
+
+table {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.table {
+    text-align: center;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.inform-text {
+    color: red;
+}
+/*for viewCart.jsp*/
+.checkout-button {
+    padding-left: 70%;
+    margin-bottom: 10px;
+}
+.checkout-button input {
+    padding: 5px 70px;
+    background-color: rgb(77, 77, 77);
+    border-radius: 2px;
+    color: white;
+    font-size: 19px
+}
+.checkout-button input:hover {
+    background-color: rgb(160, 60, 60);
+}
+.addmore-button {
+    padding-left: 72%;
+}
+.addmore-button a {
+    font-size: 20px;
+}
+.not-enough {
+    text-align: center;
+    margin-bottom: 10px
+}
+
+/*for checkout.jsp*/
+.thank-you-text, .bill-id {
+    text-align: center;
+    padding-top: 20px
+}
+
+/*for admin.jsp*/ 
+.small {
+    width: 120px;
+}
+
+/* for insert.jsp */
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-group {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.login-form a {
+    text-decoration: none;
+    color: #FFF;
+}
+.login-form a:hover {
+    text-decoration: none;
+    color: #FFF;
+}
+
+.btn-black{
+    background-color: #000 !important;
+    color: #fff;
+}
+
+.btn-black:hover {
+    background-color: rgb(71, 82, 182) !important;
+    color: #fff;
+}
+
+.message {
+    color: red;
+}
+
+
+
+
+
+
